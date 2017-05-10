@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "Ngmm_Jadon" => "maojiadong@ngmm365.com" }
   s.homepage     = "https://github.com/qigeligedongdongqiang/WaterFlowCollectionViewLayout"
-  s.source       = { :git => "https://github.com/qigeligedongdongqiang/WaterFlowCollectionViewLayout.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/qigeligedongdongqiang/WaterFlowCollectionViewLayout.git", :tag => "0.0.2" }
   s.source_files  = "WaterFlowCollectionViewLayout", "*.{h,m}"
 
   s.requires_arc = true
