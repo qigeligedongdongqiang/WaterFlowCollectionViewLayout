@@ -12,7 +12,7 @@ To integrate WaterFlowCollectionViewLayout into your Xcode project using CocoaPo
 platform :ios, '5.0'
 
 target 'TargetName' do
-pod 'WaterFlowCollectionViewLayout', '~> 0.0.1'
+pod 'WaterFlowCollectionViewLayout', '~> 0.0.2'
 end
 ```
 
